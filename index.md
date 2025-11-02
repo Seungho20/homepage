@@ -88,7 +88,7 @@ UX 디자이너
 <iframe
   src="/homepage/tableau.html"
   width="100%"
-  height="820"
+  height="800"
   frameborder="0"
   style="border-radius:12px;border:1px solid #ddd;background:#0f1117;"
   allowfullscreen

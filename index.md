@@ -85,12 +85,12 @@ UX 디자이너
 ## Tableau 시각화 프로젝트
 데이터 기반 UX 리서치 시각화 결과를 인터랙티브하게 확인할 수 있습니다.
 
-<iframe 
-  src="tableau.html" 
-  width="100%" 
-  height="700" 
-  frameborder="0" 
-  style="border-radius: 12px; border: 1px solid #ddd;">
-</iframe>
-
+<iframe
+  src="https://public.tableau.com/views/워크북명/시트명?:showVizHome=no&amp;:embed=true"
+  width="100%"
+  height="820"
+  frameborder="0"
+  style="border-radius:12px;border:1px solid #ddd;background:#0f1117;"
+  allowfullscreen
+></iframe>
 

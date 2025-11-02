@@ -32,7 +32,7 @@ UX 디자이너
 ---
 
 ### 2. 삼성전자 산학 협력 프로젝트 – **AI Companion UX**
-![AI Companion 대표 이미지](images/ai_companion_cover.png)
+![AI Companion 대표 이미지](ai_companion_cover.png)
 **기간:** 2025.06 – 2025.08  
 **역할:** UX 기획 및 감성 인터랙션 설계  
 **기술 스택:** Figma, After Effects  
@@ -42,7 +42,7 @@ UX 디자이너
 ---
 
 ### 3. 부동산 거래 AI Agent 서비스 **“HABI”**
-![HABI 대표 이미지](images/habi_cover.png)
+![HABI 대표 이미지](habi_cover.png)
 **기간:** 2025.03 – 2025.06  
 **역할:** UX 리서치 및 서비스 플로우 설계  
 **기술 스택:** Figma  

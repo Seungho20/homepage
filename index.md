@@ -1,7 +1,8 @@
 # Jung Seungho 포트폴리오
 
 UX 디자이너  
-서울시 광진구 거주, 세상의 크고 작은 문제를 발견하고 사용자의 시선에서 해결합니다. 
+서울시 광진구 거주, 
+세상의 크고 작은 문제를 발견하고 사용자의 시선에서 해결합니다. 
 사용자의 목소리에 의존하지 않고 창의적 솔루션을 제시하는 디자이너 입니다.
 
 ---
@@ -76,12 +77,12 @@ UX 디자이너
 | 구분 | 내용 |
 |------|------|
 | 이메일 | wjdtmdgh20@yonsei.ac.kr |
-| GitHub | [github.com/myname](https://) |
+| GitHub | [github.com/myname](https://github.com/Seungho20) |
 | 포트폴리오 사이트 | [myname.github.io](https://seungho20.github.io/homepage/) |
 
 ---
 
-## 기타
+## 데이터 시각화
 
 - 오픈소스 기여 경험 (OOO 프레임워크 한글화 참여)
-- <사회과학자를 위한 파이썬> 참여 저자
+

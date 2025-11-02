@@ -17,6 +17,7 @@ UX 디자이너
 - 인터랙션 디자인 및 프로토타이핑 (Figma, After Effects 등)  
 - 데이터 시각화 및 커뮤니케이션 (Tableau, Altair, Python 등)  
 - 모바일 앱 UX/UI 설계 및 개발 협업 (AOS, iOS 기반 프로젝트 경험)
+
 ---
 
 ## 프로젝트
@@ -55,19 +56,18 @@ UX 디자이너
 
 | 분야 | 도구 |
 |------|------|
-| 프로그래밍 | Python, Julia, R |
-| 데이터베이스 | SQLite, MySQL |
-| 시각화 | Tableau, Power BI, Altair |
-| 웹/자동화 | GitHub Pages, Streamlit, Dash |
-| 협업/관리 | Git, Notion, Slack |
+| UX 리서치 | 인터뷰, 설문, 어피니티 다이어그램, 저니맵, FGI |
+| 프로토타이핑 / 디자인 | Figma |
+| 인터랙션 / 모션 | After Effects |
+| 데이터 분석 / 시각화 | Python (Polars, Matplotlib, Altair), Tableau |
+| 협업 / 관리 | Notion, Slack, GitHub |
 
 ---
 
 ## 학력 및 이력
 
-- **OO대학교 사회과학대학**, 통계학 전공 (2018–2022)
-- **OO사 전략 기획 연구소** 연구원 (2023–2024)
-- **프리랜서 데이터 컨설턴트**, (2025- )OO시 OOO프로젝트 참여 중
+- **국민대학교 예술대학**, 입체미술전공 (2017–2024)
+- **연세대학교 커뮤티케이션 대학원 커뮤니케이션 디자인** 석사 과정 (2025–)
 
 ---
 
@@ -75,10 +75,9 @@ UX 디자이너
 
 | 구분 | 내용 |
 |------|------|
-| 이메일 | ~~~@~~~.com |
+| 이메일 | wjdtmdgh20@yonsei.ac.kr |
 | GitHub | [github.com/myname](https://) |
-| LinkedIn | [linkedin.com/in/myname](https://linkedin.com) |
-| 포트폴리오 사이트 | [myname.github.io](https://) |
+| 포트폴리오 사이트 | [myname.github.io](https://seungho20.github.io/homepage/) |
 
 ---
 

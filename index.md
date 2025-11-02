@@ -86,7 +86,7 @@ UX 디자이너
 데이터 기반 UX 리서치 시각화 결과를 인터랙티브하게 확인할 수 있습니다.
 
 <iframe 
-  src="index.html" 
+  src="tableau.html" 
   width="100%" 
   height="700" 
   frameborder="0" 

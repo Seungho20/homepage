@@ -82,7 +82,13 @@ UX 디자이너
 
 ---
 
-## 데이터 시각화
+## Tableau 시각화 프로젝트
+데이터 기반 UX 리서치 시각화 결과를 인터랙티브하게 확인할 수 있습니다.
 
-- 오픈소스 기여 경험 (OOO 프레임워크 한글화 참여)
-
+<iframe 
+  src="index.html" 
+  width="100%" 
+  height="700" 
+  frameborder="0" 
+  style="border-radius: 12px; border: 1px solid #ddd;">
+</iframe>
